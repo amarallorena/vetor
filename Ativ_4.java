@@ -17,7 +17,7 @@ public class Ativ_4 {
 		for(int i : cinco) {
 			soma+= i;
 		}
-		System.out.println("O resultado da sima é igual a: " +soma );
+		System.out.println("O resultado da soma é igual a: " +soma );
 	}
 
 }
